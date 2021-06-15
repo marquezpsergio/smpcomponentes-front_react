@@ -1,3 +1,7 @@
 .card-img-top {
   height: 200px;
 }
+
+#btn_crear{
+  text-align: left;
+}
